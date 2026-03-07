@@ -2,3 +2,4 @@
 .idea
 .ruff_CACHE
 .venv
+__pycache__
