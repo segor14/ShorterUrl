@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+POST,/auth/register,"ConnectionRefusedError(61, 'Connection refused')",100
+POST,/auth/login,"ConnectionRefusedError(61, 'Connection refused')",100
